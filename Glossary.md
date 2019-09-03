@@ -8,13 +8,14 @@ Bin
 Bucket
 Categorical data
 Continuous data
+Coefficient
 Data munging/wraggling
 Data science
 Discrete data
 Exponential
 Group/grouping
 Kertosis
-
+Linear regression
 Machine learning - an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
 Mean (mu) -
