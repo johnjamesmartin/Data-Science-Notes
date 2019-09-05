@@ -6,11 +6,11 @@ Bagging - stands for bootstrap aggregating and is an ensemble learning technique
 
 Bell curve - the most common type of distribution for a variable, AKA. normal distribution. It is called a "bell curve" because of the bell-shaped line this forms on a graph.
 
-Bin -
+Bin - see bucket.
 
 Boosting- an ensemble learning technique to create a collection of predictors.
 
-Bucket -
+Bucket - an entity into which data is divided.
 
 Categorical data - qualitative data with no inherent mathematical meaning, e.g. product category, addresses, etc.
 
@@ -18,21 +18,21 @@ Continuous data - numerical data with infinite numbers of values, e.g. times tak
 
 Coefficient - the multiplying number in algerbic expressions, e.g. 4 in 4x/10.
 
-Data munging/wraggling -
+Data munging/wraggling - the process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics.
 
 Data science - a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
 
 Discrete data - interger based numerical data, e.g. number of purchases made by a customer.
 
-Exponential -
+Exponential - an increase that becomes more and more rapid.
 
 Feature - a machine learning term that describes an individual measurable property of characteristic of something be observed. In "computer vision" technology this might be an edge or an object.
 
-Group/grouping -
+Group/grouping - see bucket.
 
 Kurtosis - how sharp the peak of a frequency-distribution curve is compared to normal distribution. Higher peaks have a higher kurtosis.
 
-Linear regression -
+Linear regression - a form of regression analysis in which a straight line representing a set of observations is drawn on a graph and used to predict new values.
 
 Machine learning - an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
