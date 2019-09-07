@@ -6,6 +6,8 @@ Bagging - stands for bootstrap aggregating and is an ensemble learning technique
 
 Bell curve - the most common type of distribution for a variable, AKA. normal distribution. It is called a "bell curve" because of the bell-shaped line this forms on a graph.
 
+Big data -
+
 Bin - see bucket.
 
 Boosting- an ensemble learning technique to create a collection of predictors.
