@@ -26,6 +26,8 @@ Data science - a multi-disciplinary field that uses scientific methods, processe
 
 Discrete data - interger based numerical data, e.g. number of purchases made by a customer.
 
+Dynamic programming -
+
 Exponential - an increase that becomes more and more rapid.
 
 Feature - a machine learning term that describes an individual measurable property of characteristic of something be observed. In "computer vision" technology this might be an edge or an object.
@@ -37,6 +39,8 @@ Kurtosis - how sharp the peak of a frequency-distribution curve is compared to n
 Linear regression - a form of regression analysis in which a straight line representing a set of observations is drawn on a graph and used to predict new values.
 
 Machine learning - an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
+
+Markov decision process -
 
 Mean (mu) - also known as "the average". It is calculated by sum of values in data set divided by number of values in data set.
 
@@ -50,7 +54,11 @@ Ordinal data - a mix of numerical and categorical (categories given data), e.g. 
 
 Overfitting - an analysis too exact to particular data set such that it fails to make reliable predictions
 
+Q-learning -
+
 Random distribution -
+
+Reinforcement learning -
 
 Skewness -
 
