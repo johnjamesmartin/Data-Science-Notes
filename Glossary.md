@@ -48,7 +48,7 @@ Markov decision process -
 
 Mean (mu) - also known as "the average". It is calculated by sum of values in data set divided by number of values in data set.
 
-Median - a number calculated by sorting values and taking the value at the midpoint. If there happens to be an even number of values, we calculate the median by taking an average of two midpoint values.
+Median (u) - a number calculated by sorting values and taking the value at the midpoint. If there happens to be an even number of values, we calculate the median by taking an average of two midpoint values.
 
 Mode - the most common value in a data set. It is therefore only relevant to discrete numerical data sets.
 
