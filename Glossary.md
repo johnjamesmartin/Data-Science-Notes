@@ -36,6 +36,10 @@ Group/grouping - see bucket.
 
 Kurtosis - how sharp the peak of a frequency-distribution curve is compared to normal distribution. Higher peaks have a higher kurtosis.
 
+K-Fold cross validation
+
+K-Means clustering
+
 Linear regression - a form of regression analysis in which a straight line representing a set of observations is drawn on a graph and used to predict new values.
 
 Machine learning - an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
