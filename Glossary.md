@@ -6,7 +6,7 @@ Bagging - stands for bootstrap aggregating and is an ensemble learning technique
 
 Bell curve - the most common type of distribution for a variable, AKA. normal distribution. It is called a "bell curve" because of the bell-shaped line this forms on a graph.
 
-Big data -
+Big data - describes an extremely large data set (usually related to human behaviours and interactions) in which computational analyses can be applied to reveal patterns, trends, and associations.
 
 Bin - see bucket.
 
@@ -36,9 +36,9 @@ Group/grouping - see bucket.
 
 Kurtosis - how sharp the peak of a frequency-distribution curve is compared to normal distribution. Higher peaks have a higher kurtosis.
 
-K-Fold cross validation
+K-fold cross validation
 
-K-Means clustering
+K-means clustering
 
 Linear regression - a form of regression analysis in which a straight line representing a set of observations is drawn on a graph and used to predict new values.
 
@@ -58,11 +58,11 @@ Ordinal data - a mix of numerical and categorical (categories given data), e.g. 
 
 Overfitting - an analysis too exact to particular data set such that it fails to make reliable predictions
 
-Q-learning -
+Q-learning - a specific implementation of reinforcement learning in which states and actions are quantified and assigned to variables. The Q variable increases with rewards and decreases for bad behaviour.
 
 Random distribution -
 
-Reinforcement learning -
+Reinforcement learning - an area within machine learning in which a software agent is introduced to "explore" an environment and subsequently learn how to optimally achieve a given goal within it.
 
 Skewness -
 
