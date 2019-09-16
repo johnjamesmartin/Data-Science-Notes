@@ -1,6 +1,6 @@
 ## Glossary
 
-Artificial intelligence (AI) - the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.
+Artificial intelligence (AI) - the simulation of human intelligence processes by machines — especially computer systems. These processes include learning, reasoning, and self-correction.
 
 Bagging - stands for bootstrap aggregating and is an ensemble learning technique. Is used when our goal is to reduce variance of a decision tree (reducing overfitting and increasing accuracy) by taking a number of decision tree predictions and averaging them.
 
@@ -36,11 +36,13 @@ Group/grouping - see bucket.
 
 Kurtosis - how sharp the peak of a frequency-distribution curve is compared to normal distribution. Higher peaks have a higher kurtosis.
 
-K-fold cross validation
+K-fold cross validation -
 
-K-means clustering
+K-means clustering -
 
 Linear regression - a form of regression analysis in which a straight line representing a set of observations is drawn on a graph and used to predict new values.
+
+Log -
 
 Machine learning - an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
@@ -49,6 +51,8 @@ Markov decision process -
 Mean (mu) - also known as "the average". It is calculated by sum of values in data set divided by number of values in data set.
 
 Median (u) - a number calculated by sorting values and taking the value at the midpoint. If there happens to be an even number of values, we calculate the median by taking an average of two midpoint values.
+
+MLLib -
 
 Mode - the most common value in a data set. It is therefore only relevant to discrete numerical data sets.
 
@@ -66,6 +70,12 @@ Reinforcement learning - an area within machine learning in which a software age
 
 Skewness -
 
+Spark -
+
 Stacking - an ensemble learning technique that combines multiple classification or regression models. The base level models are trained based on a complete training set and the meta-model is trained on outputs of the base level model as features (see feature).
 
+TF-IDF -
+
 Variance (s² or σ²) - how spread out a data set is. It is calculated by taking the average of square differences from the mean.
+
+Vector -
