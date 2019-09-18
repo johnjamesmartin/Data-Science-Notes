@@ -24,6 +24,8 @@ Data munging/wraggling - the process of transforming and mapping data from one "
 
 Data science - a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
 
+Deep learning -
+
 Discrete data - interger based numerical data, e.g. number of purchases made by a customer.
 
 Dynamic programming -
@@ -58,9 +60,13 @@ Mode - the most common value in a data set. It is therefore only relevant to dis
 
 Neural network - a series of algorithms that calculate underlying relationships in a datasetthrough a process that mimics human brain processes. It adapts to changing inputs without needing to redesign output criteria.
 
+Null hypothesis -
+
 Ordinal data - a mix of numerical and categorical (categories given data), e.g. product rating on a 1-5 scale.
 
 Overfitting - an analysis too exact to particular data set such that it fails to make reliable predictions
+
+P value -
 
 Q-learning - a specific implementation of reinforcement learning in which states and actions are quantified and assigned to variables. The Q variable increases with rewards and decreases for bad behaviour.
 
@@ -75,6 +81,8 @@ Spark -
 Stacking - an ensemble learning technique that combines multiple classification or regression models. The base level models are trained based on a complete training set and the meta-model is trained on outputs of the base level model as features (see feature).
 
 TF-IDF -
+
+T-test -
 
 Variance (s² or σ²) - how spread out a data set is. It is calculated by taking the average of square differences from the mean.
 
